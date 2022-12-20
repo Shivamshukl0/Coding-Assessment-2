@@ -1,14 +1,15 @@
 body{
     margin: 0;
+    background-color: black;
 }
 .parent{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    height: 662px;
+    /* height: 662px; */
     align-items: center;
     align-content: center;
-    background-color: black;
+    margin-top: 100px;
 }
 .box{
     width: 220px;
